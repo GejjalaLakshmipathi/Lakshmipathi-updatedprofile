@@ -1,10 +1,11 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
+<a href="https://www.animatedimages.org/cat-welcome-707.htm"><img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0092.gif" border="0" alt="animated-welcome-image-0092"</h2>
 </div>
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<a href="https://www.animatedimages.org/cat-welcome-707.htm"><img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0092.gif" border="0" alt="animated-welcome-image-0092" />
 
 </div>
 
